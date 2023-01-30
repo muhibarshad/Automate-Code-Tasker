@@ -23,3 +23,5 @@ while [ $totaltasks -ne 0 ];do
     totaltasks=$((totaltasks-1))
     i=$((i+1))
 done
+
+code $direc
