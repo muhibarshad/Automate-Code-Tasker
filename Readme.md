@@ -8,6 +8,7 @@
 
 <a href="https://www.producthunt.com/posts/automate-code-tasker?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-automate&#0045;code&#0045;tasker" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=377462&theme=light" alt="Automate&#0032;Code&#0032;Tasker - Automate&#0032;your&#0032;coding&#0032;tasks&#0032;creating&#0032;files&#0032;storing&#0032;answers&#0046;&#0032; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+
 > "A terminal-based project that automates the management of programming lab tasks. Simply run the bash.sh file, enter the number of tasks and programming language extension, then input each question. The project will create a folder on the desktop, store each answer in separate files, and open them in Visual Studio Code for easy access. Streamline your lab task organization with ease.
 
 # Features 🚀
@@ -20,6 +21,9 @@
 - Writing the answers to the programming questions in the files
 - Finally, opening the files in Visual Studio Code
 - Streamlining the organization of lab tasks.
+
+ # To use before, Get the openAI API from [here](https://platform.openai.com/overview), and paste it in the [.env](/.env) file.
+
 
 # How to use it 💻
 
